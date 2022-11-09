@@ -24,7 +24,7 @@ connection = pymysql.connect(host ='localhost',
                              passwd=****,
                              db='dwh_whiskey')
 
-# Creaeting a cursor object
+# Creating a cursor object
 cursor = connection.cursor()
 
 '''
