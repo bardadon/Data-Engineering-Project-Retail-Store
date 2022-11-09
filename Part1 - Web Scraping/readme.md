@@ -1,4 +1,5 @@
 # Part 1 - Web Scraping
+In this part I web scraped whisky product data from https://www.thewhiskyexchange.com/.
 Run this to apply the code:
 
 ```
