@@ -16,11 +16,13 @@ python analyze_data.py
 ![Screenshot 2022-11-09 at 16-12-28 Data Engineering Project Retail Store — Part 4 — Analyzing the Data](https://user-images.githubusercontent.com/65648983/200854257-2b171bbf-ef34-4df8-a48f-c2f5bff25844.png)
 
 
-3. ![Q3](https://user-images.githubusercontent.com/65648983/200854295-84d93338-15bf-4e7c-85ee-7d327e6175ab.png)
+3. Q3 — Are there any interesting patterns as to when customers like to buy whiskey? If so what are they?
+![Q3](https://user-images.githubusercontent.com/65648983/200854922-73da5218-602e-490f-8b5b-42b5d17c79d6.png)
 
 
 4. Q4 — Are we growing as a company in terms of profits or not?
 ![Q4](https://user-images.githubusercontent.com/65648983/200854334-c3450093-6a1b-4699-bca0-de450f44ac24.png)
+
 
 5. Q5 — From which counties do most of the customers come from
 ![Q5](https://user-images.githubusercontent.com/65648983/200854373-8f7f9478-ca9a-483f-8fb3-1beb50622cc4.png)
