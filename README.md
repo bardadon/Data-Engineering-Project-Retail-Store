@@ -1,6 +1,7 @@
 # Data-Engineering-Project-Retail-Store
 In this project, I created an entire data architecture for a made-up whiskey retail shop that will enable shop managers to make decisions based on their data. 
 This project will simulate the entire process that data-driven companies do to make data-based decisions.
+
 The project will include Web Scraping, processing and transforming data, loading and designing a Database and a Data Warehouse, and finally, analysis and descision making. 
 
 Check out my series of articles illustrating in details how I created the project.
