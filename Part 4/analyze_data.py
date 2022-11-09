@@ -104,9 +104,9 @@ plt.title('Top 5 Most Profitable Products',size = 18)
 
 plt.show()
 
-```
+'''
 Q2 — Which products people usually buy?
-```
+'''
 
 query = '''
 select 
@@ -137,9 +137,9 @@ probablity_Dataframe['Probablity to Buy'] = sorted_prob_mass_func.values
 # Output
 print(probablity_Dataframe)
 
-```
+'''
 Q3 — Are there any interesting patterns as to when customers like to buy whiskey? If so what are they?
-```
+'''
 query = '''
 select 
     count(*) as Number_Of_Transactions, 
