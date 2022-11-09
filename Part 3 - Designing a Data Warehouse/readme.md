@@ -7,14 +7,14 @@ I will also create multiple triggers that will handle the transfer of data betwe
 
 ## Applying the code
 
-### In Python:
+### In Python - Generate the Date Dimension
+
 ```
-python data_warehouse.py
+python generate_date_dimension.py
 ```
 
-### In MySQL - Run these in MySQL
+### In MySQL - Generate Dimensions & Triggers
 
-#### Generate Dimensions & Triggers
 ```
 generate_customers_dimension.sql
 generate_employee_dimension.sql
