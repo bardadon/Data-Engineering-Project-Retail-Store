@@ -8,11 +8,11 @@ python analyze_data.py
 
 ### End Result - Part 4 - Analysis
 
-1. Q1 — Which products produce the most profit?
+1. Q1 — Which types of whisky produce the most profit?
 ![Q1](https://user-images.githubusercontent.com/65648983/200854234-37c95cbb-dd23-4639-8353-460c6b91f772.png)
 
 
-2. Q2 — Which products people usually buy?
+2. Q2 — Which types of whisky people usually buy?
 ![Screenshot 2022-11-09 at 16-12-28 Data Engineering Project Retail Store — Part 4 — Analyzing the Data](https://user-images.githubusercontent.com/65648983/200854257-2b171bbf-ef34-4df8-a48f-c2f5bff25844.png)
 
 
