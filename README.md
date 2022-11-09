@@ -33,7 +33,7 @@ scraper = whisky_web_scraping()
 data = scraper.scrape_whisky(number_of_pages=5)
 ```
 
-### End Result - Part 1
+### End Result - Part 1 - Scraped Data
 
 1. Panda's DataFrame with product data:
 ```
@@ -82,7 +82,7 @@ python normalize_data.py
 Python load_data.py
 ```
 
-### End Result - Part 2
+### End Result - Part 2 - Finished Database Schema
 All the Data is now stored in MySQL.
 
 ![1 YxBrGMeYHcC4Zbb8w0loYA](https://user-images.githubusercontent.com/65648983/200845784-93092dde-afdb-4f8e-a7ab-8f4c61c78531.png)
@@ -113,7 +113,7 @@ generate_fact_table.sql
 
 triggers.sql
 ```
-### End Result - Part 3
+### End Result - Part 3 - Finished Data Warehouse Schema
 
 - Finished Data Warehouse Schema:
 ![1 6V1ZTROGwoa9IKy1DDrDtg](https://user-images.githubusercontent.com/65648983/200848563-b557b0a7-1889-4f87-811e-0c7a98cb0ed9.png)
