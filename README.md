@@ -92,7 +92,7 @@ All the Data is now stored in MySQL.
 
 
 
-## part 3 - Designing a Data Warehouse
+## Part 3 - Designing a Data Warehouse
 
 
 ## Part 4 - Analyzing the Data
