@@ -151,6 +151,6 @@ python analyze_data.py
 ![Q4](https://user-images.githubusercontent.com/65648983/200854334-c3450093-6a1b-4699-bca0-de450f44ac24.png)
 
 
-5. Q5 — From which counties do most of the customers come from
+5. Q5 — From which countries do most of the customers come from
 ![Q5](https://user-images.githubusercontent.com/65648983/200854373-8f7f9478-ca9a-483f-8fb3-1beb50622cc4.png)
 
