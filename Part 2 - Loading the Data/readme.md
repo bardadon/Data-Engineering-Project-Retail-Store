@@ -29,3 +29,7 @@ Python load_data.py
 ```
 
 ## End Result
+All the Data is now stored in MySQL.
+
+![1 YxBrGMeYHcC4Zbb8w0loYA](https://user-images.githubusercontent.com/65648983/200845784-93092dde-afdb-4f8e-a7ab-8f4c61c78531.png)
+
