@@ -18,7 +18,7 @@ data = scraper.scrape_whisky(number_of_pages=5)
 ```
 |    |Product_Name                                     |Alcohol_Percent  |Alcohol_Amount|Alcohol_Price|
 |----|-------------------------------------------------|-----------------|--------------|-------------|
-|0   | Deanston 18 Year Old                            |46.3             | 70           |63.95        |
+|0   | Deanston 18 Year Old                            |46.3             |70           |63.95        |
 |1   |Lagavulin 2006 Distillers Edition                |43               |70            |89.95        |
 |2   |Benromach Cask Strength Vintage 2010             |58.5             |70            |51.95        |
 |3   |Personalised Highland Special Reserve Single Malt|48               |70            |54.95        |
