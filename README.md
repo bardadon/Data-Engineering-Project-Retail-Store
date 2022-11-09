@@ -72,7 +72,7 @@ python generate_store_data.py
 ![current_schema](https://user-images.githubusercontent.com/65648983/200842768-8f03b391-cea9-44bf-9296-26abadefccf8.png)
 
 
-- Run this to design the data
+- Run this to design and normalize the data
 ```
 python normalize_data.py
 ```
