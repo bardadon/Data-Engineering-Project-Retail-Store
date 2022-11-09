@@ -18,6 +18,8 @@ Part 4 - https://medium.com/codex/data-engineering-project-retail-store-part-4-a
 
 
 ## Part 1 - Web Scraping
+In this part I web scraped whisky product data from https://www.thewhiskyexchange.com/.
+
 Run this to apply the code:
 
 ```
