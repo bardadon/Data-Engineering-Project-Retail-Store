@@ -56,6 +56,8 @@ data = scraper.scrape_whisky(number_of_pages=5)
 2. Exported CSV files of each type of Whisky:
 ![1 Vs11yEJxOI_Hv7D-stA-JA](https://user-images.githubusercontent.com/65648983/200838844-72029ee7-eca8-4f19-a0f9-1a54ce43d1e3.png)
 
+--================================================================================================================================================
+
 ## Part 2 - Loading the Data and Designing a Database
 In this part, I generated data about the whisky restail shop, designed a Central RDBMS, applied normalization to the data and loaded it.
 
