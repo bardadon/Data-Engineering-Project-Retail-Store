@@ -15,6 +15,7 @@ Part 3 - https://towardsdev.com/data-engineering-project-retail-store-part-3-dat
 Part 4 - https://medium.com/codex/data-engineering-project-retail-store-part-4-analyzing-the-data-630efad6e09a
 
 ## Project Architecture
+![document-3-1](https://user-images.githubusercontent.com/65648983/200861902-0188dd63-1a84-44e6-ba02-01bfea71add7.png)
 
 
 ## Part 1 - Web Scraping
@@ -86,10 +87,6 @@ Python load_data.py
 All the Data is now stored in MySQL.
 
 ![1 YxBrGMeYHcC4Zbb8w0loYA](https://user-images.githubusercontent.com/65648983/200845784-93092dde-afdb-4f8e-a7ab-8f4c61c78531.png)
-
-
-
-
 
 
 ## Part 3 - Designing a Data Warehouse
