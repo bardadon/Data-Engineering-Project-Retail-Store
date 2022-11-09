@@ -115,7 +115,6 @@ triggers.sql
 ```
 ### End Result - Part 3 - Finished Data Warehouse Schema
 
-- Finished Data Warehouse Schema:
 ![1 6V1ZTROGwoa9IKy1DDrDtg](https://user-images.githubusercontent.com/65648983/200848563-b557b0a7-1889-4f87-811e-0c7a98cb0ed9.png)
 
 
