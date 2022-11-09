@@ -11,6 +11,7 @@ python generate_store_data.py
 2. Design the Database
 
 - Current Schema:
+- 
 ![current_schema](https://user-images.githubusercontent.com/65648983/200842768-8f03b391-cea9-44bf-9296-26abadefccf8.png)
 
 
