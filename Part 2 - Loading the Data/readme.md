@@ -17,11 +17,15 @@ python generate_store_data.py
 
 - Run this to design the data
 ```
-python process_data.py
+python normalize_data.py
 ```
 
 - Finished Schema:
+![1 TJ76ouNmK-vH2-3P_GI9aQ](https://user-images.githubusercontent.com/65648983/200844488-806fc02c-6632-414b-a3ec-1853898f1818.png)
 
-
+3. Load the Data to MySQL
+```
+Python load_data.py
+```
 
 ## End Result
