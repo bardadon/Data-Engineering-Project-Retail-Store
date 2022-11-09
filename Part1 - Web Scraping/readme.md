@@ -1,4 +1,4 @@
-### Part 1 - Web Scraping
+# Part 1 - Web Scraping
 Run this to apply the code:
 
 ```
@@ -12,7 +12,7 @@ scraper = whisky_web_scraping()
 data = scraper.scrape_whisky(number_of_pages=5)
 ```
 
-### End Result
+## End Result
 
 1. Panda's DataFrame with product data:
 ```
