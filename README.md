@@ -3,7 +3,7 @@ In this project, I created an entire data architecture for a made-up whiskey ret
 This project will simulate the entire process that data-driven companies do to make data-based decisions.
 The project will include Web Scraping, processing and transforming data, loading and designing a Database and a Data Warehouse, and finally, analysis and descision making. 
 
-Note:
+__Note:__
 
 Check out my series of articles illustrating in details how I created the project.
 Part 1 - https://medium.com/towardsdev/data-engineering-project-retail-store-part-1-web-scraping-a99ac5d6d44c
