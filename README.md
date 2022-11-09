@@ -56,7 +56,9 @@ data = scraper.scrape_whisky(number_of_pages=5)
 2. Exported CSV files of each type of Whisky:
 ![1 Vs11yEJxOI_Hv7D-stA-JA](https://user-images.githubusercontent.com/65648983/200838844-72029ee7-eca8-4f19-a0f9-1a54ce43d1e3.png)
 
---================================================================================================================================================
+**********************************************************************************************************************************
+**********************************************************************************************************************************
+**********************************************************************************************************************************
 
 ## Part 2 - Loading the Data and Designing a Database
 In this part, I generated data about the whisky restail shop, designed a Central RDBMS, applied normalization to the data and loaded it.
@@ -90,6 +92,9 @@ All the Data is now stored in MySQL.
 
 ![1 YxBrGMeYHcC4Zbb8w0loYA](https://user-images.githubusercontent.com/65648983/200845784-93092dde-afdb-4f8e-a7ab-8f4c61c78531.png)
 
+**********************************************************************************************************************************
+**********************************************************************************************************************************
+**********************************************************************************************************************************
 
 ## Part 3 - Designing a Data Warehouse
 In this part, I will design a Data Warehouse which will be the main analytic focal point of the company. 
@@ -116,6 +121,9 @@ triggers.sql
 
 ![1 6V1ZTROGwoa9IKy1DDrDtg](https://user-images.githubusercontent.com/65648983/200848563-b557b0a7-1889-4f87-811e-0c7a98cb0ed9.png)
 
+**********************************************************************************************************************************
+**********************************************************************************************************************************
+**********************************************************************************************************************************
 
 ## Part 4 - Analyzing the Data
 In this part, ill get into the shoes of the analysts in the company and analyze the data in the Data Warehouse.
