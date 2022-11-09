@@ -6,7 +6,7 @@ In this part, ill get into the shoes of the analysts in the company and analyze 
 python analyze_data.py
 ```
 
-### End Result - Various Visualizations
+### End Result - Part 4 - Analysis
 
 1. Q1 — Which products produce the most profit?
 ![Q1](https://user-images.githubusercontent.com/65648983/200854234-37c95cbb-dd23-4639-8353-460c6b91f772.png)
